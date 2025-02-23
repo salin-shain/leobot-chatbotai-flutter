@@ -52,8 +52,8 @@ vercel deploy<br>
 Your chatbot will be available at https://your-app.vercel.app<br>
 <br>
 📷 Screenshots<br>
-![image](https://github.com/user-attachments/assets/3cf6096f-456b-48d8-b6f8-8510808411b3)<br>
-![image](https://github.com/user-attachments/assets/c37e62c0-e38c-4768-96f3-25d7a99ce3b6)<br>
+![image](https://github.com/user-attachments/assets/3cf6096f-456b-48d8-b6f8-8510808411b3)     <br>
+![image](https://github.com/user-attachments/assets/c37e62c0-e38c-4768-96f3-25d7a99ce3b6)    <br>
 <br>
 📜 License<br>
 This project is open-source under the MIT License.<br>
