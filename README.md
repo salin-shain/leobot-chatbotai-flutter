@@ -1,7 +1,7 @@
 LEOBOT- AI CHATBOT
 📌 Features
 
-✅ FastAPI Backend: Handles API requests and responses efficiently.
+✅ FastAPI Backend: Handles API requests and responses efficiently.<br>
 ✅ Groq API: Processes and generates intelligent chatbot responses.
 ✅ Flutter Frontend: A sleek and responsive UI for user interaction.
 ✅ Interactive Chat: Engages users with smooth real-time communication.
